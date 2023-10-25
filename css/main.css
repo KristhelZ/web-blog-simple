@@ -5,7 +5,7 @@ body {
  body {
      font-family: sans-serif;
      padding: 1rem;
-     color: grey;
+     color: #5e5c64;
      line-height: 2rem;
  }
 
@@ -36,7 +36,7 @@ header__title-strong{
     padding: .3rem;
 }
 .blog {
-    background-color: lightgrey;
+    background-color: #f7f7fe7;
     padding: 1rem;
 }
 .blog__title {
@@ -45,7 +45,7 @@ header__title-strong{
 }
 
 .blog__item {
-    border-bottom: grey;
+    border-bottom: #5e5c64;
     padding-lock: 1 rem;
 }
 
@@ -54,7 +54,7 @@ header__title-strong{
 }
 
 .blog__time {
-    color: #a4a4a4;
+    color: #808080;
     font-style: italic;
 }
 .link--title--blog {
